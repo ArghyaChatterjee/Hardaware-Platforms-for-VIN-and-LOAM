@@ -1,12 +1,11 @@
 # List-of-Hardaware-Platforms-for-Implementing-Visual-Inertial-Navigation
 
 ## SLAM with COTS Boards Used on Drone based Computer Vision:
-1. Raspberry PI
-2. Intel NUC
-2. Up Squared Board
-3. Odroid XU4
-4. Jetson Nano
-5. Jetson TX2
+1. [Raspberry PI](https://www.raspberrypi.org/)
+2. [Intel NUC](https://www.intel.com/content/www/us/en/products/boards-kits/nuc/boards.html)
+2. [Up Squared Board](https://up-board.org/upsquared/development-kits/)
+3. [Odroid](https://www.hardkernel.com/product/)
+4. [Nvidia Jetson](https://developer.nvidia.com/buy-jetson)
 
 ## AutoPilots available for Computer Vision on Drones & Ground Vehicles:
 1. [Pixhawk](https://docs.px4.io/v1.9.0/en/flight_controller/raspberry_pi_navio2.html)
