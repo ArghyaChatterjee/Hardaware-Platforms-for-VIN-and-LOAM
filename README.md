@@ -1,4 +1,4 @@
-# List-of-Hardaware-Platforms-for-Implementing-VIN-and-LOAM
+# Hardaware-Platforms-for-VIN-and-LOAM
 
 ## SLAM with COTS Boards Used on Drone based Computer Vision:
 1. [Raspberry PI](https://www.raspberrypi.org/)
